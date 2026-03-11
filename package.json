@@ -1,0 +1,11 @@
+{
+  "name": "aiiinterior",
+  "version": "1.0.0",
+  "description": "AI powered interior designer app",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}
